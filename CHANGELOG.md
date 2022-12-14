@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.24.0](https://github.com/sbrunner/scan-to-paperless/tree/1.24.0) (2022-09-21)
+
+[Full Changelog](https://github.com/sbrunner/scan-to-paperless/compare/1.23.0...1.24.0)
+
 ## [1.23.0](https://github.com/sbrunner/scan-to-paperless/tree/1.23.0) (2022-06-06)
 
 [Full Changelog](https://github.com/sbrunner/scan-to-paperless/compare/03552e5cba87dac73182ad70bcdbb7616ab59a29...1.23.0)
